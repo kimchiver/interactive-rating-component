@@ -47,7 +47,7 @@
   <!-- Rating state end -->
 
   <!-- Thank you state start -->
-  <div class="container thank-you">
+<div class="container thank-you">
 
   <img src="images/illustration-thank-you.svg" alt="Thank you image">
 
@@ -55,12 +55,12 @@
     You selected <span id="summup"></span> out of 5
   </span></p>
 
-    <h1>Thank you!</h1>
+  <h1>Thank you!</h1>
 
-    <p>We appreciate you taking the time to give a rating. If you ever need more support,
+  <p>We appreciate you taking the time to give a rating. If you ever need more support,
     don’t hesitate to get in touch!</p>
 
-  </div>
+</div>
   <!-- Thank you state end -->
 
 
@@ -78,10 +78,10 @@
     drums.forEach((item) => {
       item.addEventListener("click", () => {
         if ( RATING ) {
-          document.getElementById("hit" + RATING).classList.remove("selected");
+          document.getElementById("hit" + RATING).classList.remove("selected", "checked");
         }
         RATING = item.value;
-        document.getElementById("hit" + RATING).classList.add("selected");
+        document.getElementById("hit" + RATING).classList.add("selected", "checked");
       });
     });
 
