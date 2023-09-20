@@ -21,7 +21,11 @@ Users should be able to:
 - Flexbox, MQ components, DOM
 - Vanila JS
 
+## Screenshot
+
+![](./screenshot.png)
+
 ## Live links
 
 - See the [live version](https://kimchiver.github.io/interactive-rating-component)
-- [Frontend Mentor profile](https://www.frontendmentor.io/profile/kimchiver)
+- My [Frontend Mentor profile](https://www.frontendmentor.io/profile/kimchiver)
