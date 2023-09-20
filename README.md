@@ -1,7 +1,6 @@
 # Frontend Mentor - Interactive rating component solution
 
-This is a solution to the [Interactive rating component challenge on Frontend Mentor]
-(https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI).
+This is a solution to the [Interactive rating component challenge on Frontend Mentor] (https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI).
 
 ## Overview
 
@@ -15,13 +14,14 @@ Users should be able to:
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
 
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox, MQ components, DOM
 - Vanila JS
 
+## Live links
 
-- See the live version on https://kimchiver.github.io/interactive-rating-component
-- Frontend Mentor profile https://www.frontendmentor.io/profile/kimchiver
+- See the [live version] (https://kimchiver.github.io/interactive-rating-component)
+- [Frontend Mentor profile] (https://www.frontendmentor.io/profile/kimchiver)
